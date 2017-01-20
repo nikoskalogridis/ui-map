@@ -5,7 +5,7 @@
   "author": "https://github.com/angular-ui/ui-map/graphs/contributors",
   "license": "MIT",
   "homepage": "http://angular-ui.github.com",
-  "main": "./ui-map.js",
+  "main": "./src/ui-map.js",
   "dependencies": {},
   "devDependencies": {
     "angular-ui-publisher": "1.2.x",
